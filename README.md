@@ -25,10 +25,10 @@ In addition, analysis should be performed using the human reference genome GRCh3
 
 ## Expected results
 
-- For both patients `jupyter` and `uranus`, map the sequencing reads, find the covered genomic regions and the corresponding genes.
-- Using a method of your choice, find the large structural abberations that affect both patient genomes and report these finding in vcf files.
-- Comment on the implication of your findings (prognosis, targeted treatment).
-- If the specific protocol used to analyse jupyter and uranus was planned to be extended to other patients diagnosed for ALL-B, what would be your comments, suggestions, and critics, with regards to feasibility, accuracy and sensibility of the test.
+1. For both patients `jupyter` and `uranus`, map the sequencing reads, find the covered genomic regions and the corresponding genes.
+2. Using a method of your choice, find the large structural abberations that affect both patient genomes and report these findings in vcf files.
+3. Comment on the implication of your findings (prognosis, targeted treatment).
+4. If the specific protocol used to analyse jupyter and uranus was planned to be extended to other patients diagnosed for ALL-B, what would be your comments, suggestions, and critics, with regards to feasibility, accuracy and sensibility of the test.
 
 ## Reporting
 
